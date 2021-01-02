@@ -1,58 +1,54 @@
 header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
-    buttonlink: "#services" # "#{section}" or "URL/page link"
+    title: Fenix Repair and Development Group
+    text: We do development, research, repair, and more.
+    button: Rise from the Ashes
+    buttonlink: "#pns" # "#{section}" or "URL/page link"
 
-services:
-    title: "Services"
-    text: "Lorem ipsum"
-    section: services
+pns:
+    title: "What we do"
+    text: "This and more! Check our navbar to see all our subdomains."
+    section: pns
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "[Store](https://store.phoenixconsoles.org/"
+        desc: "You can purchase our products, services, and resale items here."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop       
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
-
-portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    section: portfolio
+      - title: "[Research & Development](https://rtd.phoenixconsoles.org/)"
+        desc: "You can check out our research and development work here."
+        icon: fas fa-flask       
+      - title: "[The Wiki](wiki.phoenixconsoles.org/)"
+        desc: "The ultimate wiki, with videos and text detailing everything from technical information, basic information, processes, etc. It's everything you need to know about what we do. Open source information."
+        icon: fas fa-book
     
+
 
 timeline:
     title: "About" 
     text: "Lorem ipsum timeline"
     section: timeline
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
-        alt: 
+      - title: "Connect with the Community"
+        year: "Discord"
+        desc: "Connect with the community, get reliable information at your fingertips, and explore the many areas of our Discord to fuel your hobbies!"
+        image: assets/img/social/discord.jpg
+        alt: "An image is displayed that is the logo of the popular social networking app: Discord."
         align: left
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
-        alt: 
+      - title: "Check out the Ranking system!"
+        year: "Ranking"
+        desc: "Our ranking system is meant to create a reliable, community driven system to rank sellers, community members, and other noteworthy groups and individuals based on community feedback regarding one another and a moderation system to verify and confirm reports."
+        image: assets/img/generic/star.jpg
+        alt: A image of a 5-point star.
         align: right
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
+      - title: "Affiliate with us!"
+        year: "Affiliates"
+        desc: "Why compete when we can *work together*? Learn more here."
+        image: assets/img/generic/affiliate.jpg
+        alt: A logo for our affiliates program
         #align: #default is left       
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
-        alt: 
+      - title: ""
+        year: "OpenXenon"
+        desc: "This project develops open source development tools for the Xbox 360 Xenon architecture."
+        image: assets/img/logos/openxenon.jpg
+        alt: The logo of the openxenon project.
         align: right
     end: "Be Part <br> of Our <br> Story!"
 
@@ -64,7 +60,7 @@ about:
 clients:
     section: clients
     max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
+    horizontal-scrolling: "no" #"yes/no"
     list:
       - title: "envato"
         url: https://github.com/raviriley/agency-jekyll-theme
@@ -80,7 +76,7 @@ clients:
         logo: assets/img/clients/creative-market.jpg
     
 team:
-    title: "OUR AMAZING TEAM"
+    title: "Team Leads"
     text: "Lorem ipsum dolor sit amet consectetur."
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
@@ -118,22 +114,30 @@ team:
           
 contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: "Email general@phoenixconsoles.org or Call (863) 949-0098"
     section: contact
     
 footer:
-    legal: "Privacy Policy"
+    legal: "Privacy Policy, License, and Other Legalese."
     social:
-      - url: https://twitter.com
+      - url: https://twitter.com/phnxconsoles
         icon: "fab fa-twitter"  
-      - url: https://facebook.com
+      - url: https://facebook.com/phnxconsoles
         icon: "fab fa-facebook-f"
       - url: https://linkedin.com
         icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
+      - url: https://github.com/phoenixconsoles/
         icon: "fab fa-github"
-      - url: https://instagram.com
+      - url: https://instagram.com/phoenixconsoles
         icon: "fab fa-instagram"
+      - url: https://www.youtube.com/channel/UChRzPoTAIwk1uMXa4S-Y7jg
+        icon: "fab fa-youtube"
+      - url: https://tiktok.com/phoenixconsoles
+        icon: "fab fa-tiktok"
+      - url: https://discord.gg/F9CaBrFzjE
+        icon: "fab fa-discord"
+        
+        
 
 
 # {{ site.data.sitetext.ex.ex | markdownify | default: example }}
