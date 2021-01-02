@@ -1,8 +1,8 @@
 header:
     title: Fenix Repair and Development Group
     text: We do development, research, repair, and more.
-    button: Rise from the Ashes
-    buttonlink: "#services" # "#{section}" or "URL/page link"
+    button: Photo by Chris Ried on Unsplash
+    buttonlink: "https://unsplash.com/@cdr6934?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" # "#{section}" or "URL/page link"
 
 services:
     title: "What we do"
@@ -112,7 +112,7 @@ team:
           
 contact:
     title: "[Contact Us]()"
-    text: "Email general@phoenixconsoles.org or Call (863) 949-0098"
+    text: "Photo by [ELH Express](https://unsplash.com/@elhexpress?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/gaming-console?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)."
     section: contact
     
 footer:
