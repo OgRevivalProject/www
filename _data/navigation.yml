@@ -2,13 +2,13 @@ nav:
   - title: "Services"
     section: services
 
-  - title: "Portfolio"
-    section: portfolio
+  - title: "Affiliates"
+    url: https://affiliates.phoenixconsoles.org
     
   - title: "About"
     section: timeline
 
-  - title: "Team"
+  - title: "Projects"
     section: team
 
   - title: "Contact"
