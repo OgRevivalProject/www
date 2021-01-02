@@ -2,12 +2,12 @@ header:
     title: Fenix Repair and Development Group
     text: We do development, research, repair, and more.
     button: Rise from the Ashes
-    buttonlink: "#pns" # "#{section}" or "URL/page link"
+    buttonlink: "#services" # "#{section}" or "URL/page link"
 
-pns:
+services:
     title: "What we do"
     text: "This and more! Check our navbar to see all our subdomains."
-    section: pns
+    section: services
     list:
       - title: "[Store](https://store.phoenixconsoles.org/"
         desc: "You can purchase our products, services, and resale items here."
