@@ -9,7 +9,7 @@ services:
     text: "This and more! Check our navbar to see all our subdomains."
     section: services
     list:
-      - title: "[Store](https://store.phoenixconsoles.org/"
+      - title: "[Store](https://store.phoenixconsoles.org/)"
         desc: "You can purchase our products, services, and resale items here."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "[Research & Development](https://rtd.phoenixconsoles.org/)"
