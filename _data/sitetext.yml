@@ -111,8 +111,8 @@ team:
             icon: fab fa-discord
           
 contact:
-    title: "[Contact Us]()"
-    text: "<span>Photo by <a href="https://unsplash.com/@lorenzoherrera?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Lorenzo Herrera</a> on <a href="https://unsplash.com/s/photos/commodore?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>"
+    title: "Contact Us"
+    text: "Photo by Lorenzo Herrera on Unsplash"
     section: contact
     
 footer:
