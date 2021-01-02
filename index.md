@@ -41,3 +41,4 @@
 - Want to contribute? Contact us at contribution@phoenixconsoles.org.
 
 
+We're passionate about the Right to Repair movement, and think you should be too! https://www.repair.org/stand-up
