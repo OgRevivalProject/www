@@ -15,7 +15,7 @@ services:
       - title: "[Research & Development](https://rtd.phoenixconsoles.org/)"
         desc: "You can check out our research and development work here."
         icon: fas fa-flask       
-      - title: "[The Wiki](wiki.phoenixconsoles.org/)"
+      - title: "[The Wiki](https://wiki.phoenixconsoles.org/)"
         desc: "The ultimate wiki, with videos and text detailing everything from technical information, basic information, processes, etc. It's everything you need to know about what we do. Open source information."
         icon: fas fa-book
     
