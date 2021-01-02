@@ -1,5 +1,3 @@
-## IN PROGRESS
-
 ### This site is currently under heavy development. 
 
 ### Planned: 
