@@ -76,41 +76,41 @@ clients:
         logo: assets/img/clients/creative-market.jpg
     
 team:
-    title: "Team Leads"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    title: "Projects"
+    text: "Featured Research and Development Projects."
+    subtext: Research, Repair, Design, Development, etc. Projects may appear here.
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/1.jpg
+      - name: "OpenXenon"
+        role: "Open Source Xenon Platform Development Tools"
+        image: assets/img/logos/openxenon.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
+          - url: https://github.com/openxenon
+            icon: fab fa-github
+          - url: https://openxenon.phoenixconsoles.org/
+            icon: fab fa-internet
+          - url: https://discord.gg/F9CaBrFzjE
+            icon: fab fa-discord
+      - name: "OpenOG"
+        role: "Open Source Development Tools for the Original XBOX Platform"
+        image: assets/img/logos/openog.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/3.jpg
+          - url: https://github.com/OpenOG
+            icon: fab fa-github
+          - url: https://openog.phoenixconsoles.org/
+            icon: fab fa-internet
+          - url: https://discord.gg/F9CaBrFzjE
+            icon: fab fa-discord
+      - name: "OpenSwitch"
+        role: "Open Source Nintendo Switch Development Tools"
+        image: assets/img/logos/opensw1tch.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+          - url: https://github.com/OpenSw1tch
+            icon: fab fa-github
+          - url: https://opensw1tch.phoenixconsoles.org/
+            icon: fab fa-internet
+          - url: https://discord.gg/F9CaBrFzjE
+            icon: fab fa-discord
           
 contact:
     title: "Contact Us"
