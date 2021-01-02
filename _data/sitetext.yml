@@ -36,15 +36,15 @@ timeline:
         image: assets/img/generic/star.jpg
         alt: A image of a 5-point star.
         align: right
-      - title: "Affiliate with us!"
-        year: "Affiliates"
-        desc: "Why compete when we can *work together*? Learn more here."
-        image: assets/img/generic/affiliate.jpg
-        alt: A logo for our affiliates program
+      - title: "See what we're cooking up!"
+        year: "Roadmap"
+        desc: "Check out our plans and learn more about our past!"
+        image: assets/img/generic/road.jpg
+        alt: A image of a road
         #align: #default is left       
       - title: "Work with us!"
         year: "Jobs"
-        desc: "Or you can just outright work with us!"
+        desc: "You could be just who we need!"
         image: assets/img/logos/phnxconsoles.jpg
         alt: A logo for Phoenix Consoles
         align: right

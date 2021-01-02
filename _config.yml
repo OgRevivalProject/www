@@ -28,8 +28,8 @@ author     : Ash
 analytics:
   google: G-CM9HB0D2HC
 
-collections:
-  portfolio:
+#collections:
+#  portfolio:
 
 markdown: kramdown
 
