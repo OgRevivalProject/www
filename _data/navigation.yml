@@ -1,18 +1,21 @@
 nav:
-  - title: "Services"
-    section: services
+  - title: "Home"
+    url: https://www.phoenixconsoles.org/
 
-  - title: "Affiliates"
-    url: https://affiliates.phoenixconsoles.org
+  - title: "Store"
+    url: url: https://store.phoenixconsoles.org/
     
-  - title: "About"
-    section: timeline
+  - title: "Jobs"
+    url: https://www.phoenixconsoles.org/jobs
 
   - title: "Projects"
-    section: team
+    url: https://www.phoenixconsoles.org/projects
 
   - title: "Contact"
-    section: contact
+    url: https://www.phoenixconsoles.org/contactus
+
+  - title: "Right to Repair"
+    url: https://www.phoenixconsoles.org/
 
   - title: "Theme Source"
     url: https://github.com/raviriley/agency-jekyll-theme/

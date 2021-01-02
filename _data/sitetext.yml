@@ -25,25 +25,25 @@ timeline:
     section: timeline
     events:
       - title: "Connect with the Community"
-        year: "Discord"
+        year: "[Discord]()"
         desc: "Connect with the community, get reliable information at your fingertips, and explore the many areas of our Discord to fuel your hobbies!"
         image: assets/img/social/discord.jpg
         alt: "An image is displayed that is the logo of the popular social networking app: Discord."
         align: left
       - title: "Check out the Ranking system!"
-        year: "Ranking"
+        year: "[Ranking]()"
         desc: "Our ranking system is meant to create a reliable, community driven system to rank sellers, community members, and other noteworthy groups and individuals based on community feedback regarding one another and a moderation system to verify and confirm reports."
         image: assets/img/generic/star.jpg
         alt: A image of a 5-point star.
         align: right
       - title: "See what we're cooking up!"
-        year: "Roadmap"
+        year: "[Roadmap]()"
         desc: "Check out our plans and learn more about our past!"
         image: assets/img/generic/road.jpg
         alt: A image of a road
         #align: #default is left       
       - title: "Work with us!"
-        year: "Jobs"
+        year: "[Jobs]()"
         desc: "You could be just who we need!"
         image: assets/img/logos/phnxconsoles.jpg
         alt: A logo for Phoenix Consoles
@@ -74,7 +74,7 @@ clients:
         logo: assets/img/clients/relevantimage.jpg
     
 team:
-    title: "Projects"
+    title: "[Projects]()"
     text: "Featured Research and Development Projects."
     subtext: Research, Repair, Design, Development, etc. Projects may appear here.
     section: team
@@ -111,7 +111,7 @@ team:
             icon: fab fa-discord
           
 contact:
-    title: "Contact Us"
+    title: "[Contact Us]()"
     text: "Email general@phoenixconsoles.org or Call (863) 949-0098"
     section: contact
     
