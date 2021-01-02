@@ -112,7 +112,7 @@ team:
           
 contact:
     title: "[Contact Us]()"
-    text: "Photo by [ELH Express](https://unsplash.com/@elhexpress?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/gaming-console?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)."
+    text: "<span>Photo by <a href="https://unsplash.com/@lorenzoherrera?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Lorenzo Herrera</a> on <a href="https://unsplash.com/s/photos/commodore?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>"
     section: contact
     
 footer:
