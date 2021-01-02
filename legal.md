@@ -35,3 +35,13 @@ We may update this privacy policy from time to time for personal, operational, l
 **CONTACT US**
 
 For more information about our privacy practices or if you have questions, please contact us by email at privacy@phoenixconsoles.org.
+
+# Warranty
+
+Learn more on the [Warranty](https://www.phoenixconsoles.org/warranty) page.
+
+# License
+
+![Creative Commons License](https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png)This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
+
+You can find our local copy of the license [here](https://github.com/PhoenixConsoles/www/blob/master/license.md).
