@@ -18,15 +18,15 @@ url    : "www.phoenixconsoles.org" # the base hostname & protocol for your site,
 baseurl: "/" # the subpath of your site, e.g. /blog
 
 title      : Phoenix Consoles
-email      : general@phoenixconsoles.org #this is also the email contact forms will go to
-description: "Temp desc."
+email      : web@phoenixconsoles.org #this is also the email contact forms will go to
+description: "Phoenix Consoles, website of Fenix Repair and Development Group."
 author     : Ash
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px
 
 analytics:
-  google: #Google Analytics tracking code here
+  google: G-CM9HB0D2HC
 
 collections:
   portfolio:
