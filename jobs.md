@@ -18,3 +18,6 @@ We will be needing all the staff a company normally needs:
 - Relevant Administrative Staff(Accounting, Legal, etc.)
 
 If you have special reason to believe you would add value to our team please contact us at jobs@phoenixconsoles.org
+
+You can also find us on LinkedIn.
+
