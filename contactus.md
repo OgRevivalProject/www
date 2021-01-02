@@ -16,7 +16,7 @@ Discord: https://discord.gg/F9CaBrFzjE
 
 Phone: (863) 949-0098
 
-Email: general@phoenixconsoles.org
+Email: web@phoenixconsoles.org
 
 
 
