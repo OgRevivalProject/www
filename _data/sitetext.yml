@@ -19,17 +19,15 @@ services:
         desc: "The ultimate wiki, with videos and text detailing everything from technical information, basic information, processes, etc. It's everything you need to know about what we do. Open source information."
         icon: fas fa-book
     
-
-
 timeline:
     title: "About" 
-    text: "Lorem ipsum timeline"
+    text: "Important Pages"
     section: timeline
     events:
       - title: "Connect with the Community"
         year: "Discord"
         desc: "Connect with the community, get reliable information at your fingertips, and explore the many areas of our Discord to fuel your hobbies!"
-        image: assets/img/social/discord.jpg
+        icon: "fab fa-instagram"
         alt: "An image is displayed that is the logo of the popular social networking app: Discord."
         align: left
       - title: "Check out the Ranking system!"
