@@ -27,7 +27,7 @@ timeline:
       - title: "Connect with the Community"
         year: "Discord"
         desc: "Connect with the community, get reliable information at your fingertips, and explore the many areas of our Discord to fuel your hobbies!"
-        icon: "fab fa-instagram"
+        image: assets/img/social/discord.jpg
         alt: "An image is displayed that is the logo of the popular social networking app: Discord."
         align: left
       - title: "Check out the Ranking system!"
