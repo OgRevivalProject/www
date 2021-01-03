@@ -15,7 +15,10 @@ nav:
     url: https://www.phoenixconsoles.org/contactus
 
   - title: "Right to Repair"
-    url: https://www.phoenixconsoles.org/
+    url: https://www.phoenixconsoles.org/righttorepair
 
+  - title: "Roadmap"
+    url: https://www.phoenixconsoles.org/roadmap
+    
   - title: "Theme Source"
     url: https://github.com/raviriley/agency-jekyll-theme/
