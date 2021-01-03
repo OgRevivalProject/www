@@ -2,23 +2,23 @@ nav:
   - title: "Home"
     url: https://www.phoenixconsoles.org/
 
-  - title: "Store"
-    url: https://store.phoenixconsoles.org/
+  - title: "Wiki"
+    url: https://wiki.phoenixconsoles.org/
     
   - title: "Jobs"
-    url: https://www.phoenixconsoles.org/jobs
+    url: https://www.phoenixconsoles.org/pages/jobs
 
   - title: "Projects"
-    url: https://www.phoenixconsoles.org/projects
+    url: https://www.phoenixconsoles.org/pages/projects
 
   - title: "Contact"
-    url: https://www.phoenixconsoles.org/contactus
+    url: https://www.phoenixconsoles.org/pages/contactus
 
   - title: "Right to Repair"
-    url: https://www.phoenixconsoles.org/righttorepair
+    url: https://www.phoenixconsoles.org/pages/righttorepair
 
   - title: "Roadmap"
-    url: https://www.phoenixconsoles.org/roadmap
+    url: https://www.phoenixconsoles.org/pages/roadmap
     
   - title: "Theme Source"
     url: https://github.com/raviriley/agency-jekyll-theme/

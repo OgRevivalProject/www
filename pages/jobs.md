@@ -1,3 +1,11 @@
+---
+layout: page
+title: "Jobs"
+
+---
+
+
+
 # Thank you for your interest!
 
 At this time we are still getting things set up. We will begin hiring soon. For now, you can email your resume and any other relevant information to jobs@phoenixconsoles.org.

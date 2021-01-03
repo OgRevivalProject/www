@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Contact Us"
+---
+
+
+
 # Contact Us
 
 ### Find us on social media:

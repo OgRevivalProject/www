@@ -1,3 +1,11 @@
+---
+layout: page
+title: "Projects"
+
+---
+
+
+
 # Our Projects
 
 - The Wiki
