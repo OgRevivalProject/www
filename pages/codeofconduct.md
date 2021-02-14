@@ -22,7 +22,7 @@ An example of acceptable discussion(where applicable) of Copyright Infringement 
 
 Add the following notice prominently in a area in which users and community members will notice it.
 
-`The Phoenix Consoles Code of Conduct applies to this [INSERT DESCRIPTOR HERE] and must be adhered to by all staff, community members, and content of this [INSERT DESCRIPTOR HERE]. Visit https://www.phoenixconsoles.com/pages/codeofconduct to read the Code of Conduct.`
+`The Phoenix Consoles Code of Conduct applies to this [INSERT DESCRIPTOR HERE] and must be adhered to by all staff, community members, and content of this [INSERT DESCRIPTOR HERE]. Visit https://www.phoenixconsoles.org/pages/codeofconduct to read the Code of Conduct.`
 
 # Contributor Covenant Code of Conduct
 
