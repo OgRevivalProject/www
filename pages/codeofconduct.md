@@ -3,6 +3,27 @@ layout: page
 title: "Code of Conduct"
 ---
 
+# Phoenix Consoles Code of Conduct
+
+### The Phoenix Consoles Code of Conduct supercedes the Contributor Covenant Code of Conduct in any conflicts. The Contributor Covenant Code of Conduct is considered a framework upon which the Phoenix Console Code of Conduct is built.
+
+## Policy on Copyright Infringement and Illegal Materials
+
+### WE DO NOT TOLERATE COPYRIGHT INFRINGEMENT OR ILLEGAL ACTIVITY, ILLEGAL ACTIVITY WILL BE MET WITH APPROPRIATE ENFORCEMENT AND LEGAL ACTION AS APPLICABLE
+
+We do not allow linking to, suggesting, guiding to, or distribution of pirating or any illegal materials. Any of these offences will be regulated by the Contributor Covenant Code of Conduct Enforcement Guidelines and removal of the offending content from our servers, services, community projects, etc. We do allow discussion of pirating and illegal materials so long as it complies with this Code of Conduct, applicable laws, and does not veer into promotion of or assisting access to pirated or illegal materials. We do not allow any discussion or behavior that is violation of any applicable Terms of Service of any given medium, platform, website, or service we may host, distribute, or serve content on. It is the responsibility of the moderation team and users to be aware of and comply with any applicable laws, Terms of Service, or any other governing rules or responsibilities applicable to them or the project maintainers.
+
+An example of acceptable discussion(where applicable) of Copyright Infringement and Illegal Materials includes, but is not limited to:
+
+- Talking about the existence of leaked information, software, etc.
+- Talking about leaked information, software, etc. so long as the communication does not violate intellectual property rights or implicate anyone in any form of illegal activity.
+
+## How to add the Phoenix Consoles Code of Conduct to your project
+
+Add the following notice prominently in a area in which users and community members will notice it.
+
+`The Phoenix Consoles Code of Conduct applies to this [INSERT DESCRIPTOR HERE] and must be adhered to by all staff, community members, and content of this [INSERT DESCRIPTOR HERE]. Visit https://www.phoenixconsoles.com/pages/codeofconduct to read the Code of Conduct.`
+
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge
@@ -65,7 +86,7 @@ representative at an online or offline event.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community leaders responsible for enforcement at
-[INSERT CONTACT METHOD].
+codeofconduct@phoenixconsoles.org.
 All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
