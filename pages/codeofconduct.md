@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Code of Conduct"
+permalink: codeofconduct
 ---
 
 # Phoenix Consoles Code of Conduct

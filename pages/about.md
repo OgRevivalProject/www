@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "About"
+permalink: about
 ---
 
 # About Phoenix Consoles
@@ -13,8 +14,8 @@ title: "About"
 - Provide repair, preservation, upgrade, and other services for consoles and other electronics.
 - Develop, manufacture, and sell products to assist customers in repair, preservation, upgrades, research, and development for consoles and other electronics.
 - Resell products to provide customers with products that are no longer available, manufactured, or otherwise may be difficult to obtain.
-- Form business relationships with prominent, reliable shops in good reputation and who adhere to the Phoenix Consoles Code of Conduct to connect customers with trustworthy shops in a manner beneficial for sellers, customers, and the community as a whole.
-- Create and maintain various projects for the benefit of the community.
+- [Form business relationships with prominent, reliable shops in good reputation and who adhere to the Phoenix Consoles Code of Conduct to connect customers with trustworthy shops in a manner beneficial for sellers, customers, and the community as a whole.](https://affiliates.phoenixconsoles.org/)
+- [Create and maintain various projects for the benefit of the community.](projects)
 
 
 
